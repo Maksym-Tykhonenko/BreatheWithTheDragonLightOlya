@@ -45,7 +45,7 @@ const LoaderScreen = () => {
     >
       <View style={styles.iconContainer}>
         <Animated.Image
-          source={require('../assets/image_icon.png')}
+          source={require('../assets/imgIconNew.png')}
           style={[
             styles.icon,                 // «цільовий» розмір 300×300
             { opacity, transform: [{ scale }] },
